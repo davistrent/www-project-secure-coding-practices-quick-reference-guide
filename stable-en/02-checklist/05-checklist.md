@@ -574,5 +574,3 @@ document: OWASP Secure Coding Practices - Quick Reference Guide
     determine business necessity and validate safe functionality
 
 - [ ]   Implement safe updating using encrypted channels
-
-\newpage
